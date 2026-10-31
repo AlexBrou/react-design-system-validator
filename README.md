@@ -13,6 +13,9 @@ It is built for designers who create apps directly with AI coding agents (such a
 instead of drawing them in Figma. The agent writes the screens, the validator tells it exactly
 what breaks the design system and where, and the agent fixes it.
 
+Using React Native? See [react-native-design-system-validator](https://github.com/AlexBrou/react-native-design-system-validator)
+(React Native + react-native-paper, with checks on the iOS simulator).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 | A screen that follows M3 | A screen that breaks it, with every violation outlined |
