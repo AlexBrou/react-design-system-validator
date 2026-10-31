@@ -1,0 +1,14 @@
+.MuiDialog-paper.promo-paper {
+  width: 720px;
+  max-width: 720px;
+}
+
+.MuiDialogTitle-root.promo-headline {
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.MuiDialogActions-root.promo-actions {
+  justify-content: flex-start;
+  gap: 2px;
+}
